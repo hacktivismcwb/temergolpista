@@ -1,0 +1,3 @@
+content	temergolpista	chrome/content/	contentaccessible=yes
+
+overlay	chrome://browser/content/browser.xul	chrome://temergolpista/content/main.xul
